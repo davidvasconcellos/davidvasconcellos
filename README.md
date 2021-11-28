@@ -18,7 +18,7 @@
   <img align="center" alt="David-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="David-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="David-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="right" alt="David-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/VJCRPcb/avatar-1.png">
+  <img align="right" alt="David-gif" height="150" style="border-radius:50px;" src=".github/src/assets/to_readme/giphy.gif">
 </div>
   
   ##
