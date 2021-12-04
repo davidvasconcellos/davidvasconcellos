@@ -1,8 +1,8 @@
 ### Olá! Eu sou o David Vasconcellos 👋
 
 
-- 💼 Hoje trabalho com front-end
-- 🌱 Estudando Java
+<!-- - 💼 Hoje trabalho com front-end -->
+- 🌱 Estudando: Java, C# e JavaScript
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
