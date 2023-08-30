@@ -2,7 +2,7 @@
 
 
 <!-- - 💼 Hoje trabalho com front-end -->
-- 🌱 Estudando: Java, C# e JavaScript
+- 🌱 Estudando: HTML,CSS, Javascript, Node.js, Banco de Dados, PHP Java, C#
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
